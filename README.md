@@ -1,1 +1,1 @@
-"proof-1"  
+Repo for proof images and video examples.
