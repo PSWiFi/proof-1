@@ -1,4 +1,4 @@
-# PLA - Scripted Encounter Proof Examples
+# PLA - Billo's Scripted Encounter Proof Examples
 
 
 ![](https://raw.githubusercontent.com/PSWiFi/proof-1/refs/heads/main/Images/SWITCH/ExLAScript1.gif)<br>
